@@ -1,5 +1,5 @@
 body{
-  background-color: #fbf6e3;
+  background-color: #fdf6e3;
 }
 
 header{
@@ -10,7 +10,7 @@ footer{
   font-size: 1.5rem
 }
 
-ul, nav{
+ul nav{
   font-family: sans-serif;
 }
 
@@ -27,10 +27,38 @@ ul, nav{
   color: #93a1a1;
 }
 
-wrapper dfn{
+.wrapper dfn{
   background-color: #b58900;
 }
 
 strong dfn{
   color: #fff;
+}
+
+mark {
+  background-color: #719e07;
+}
+
+.external{
+  background-color: #2694d8;
+}
+
+ol{
+  color: : #719e47;
+}
+
+ol{
+  color: #2aa198;
+}
+
+.types{
+  background-color: #657ba3;
+}
+
+.types{
+  background-color: #586e75;
+}
+
+.types{
+  background-color: #d04b16;
 }
